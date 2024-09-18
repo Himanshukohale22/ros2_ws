@@ -1,0 +1,10 @@
+# CompanyDetailsService.srv
+
+# Request part (empty in this case)
+
+---
+
+# Response part
+std_msgs/String founder
+int32 age_of_company
+int32 number_of_employee
